@@ -5,21 +5,16 @@ grün
 gelb
 grün
 pink
-
+===================================================================
 
 
 Frank color
- 
+----> ML: Das war super Frank !!!!!!!!!!!!!!!!!!!!
  zweite Änderung
- 
  ich akzeptiere alle Änderungen
- 
   und noch ein Change
-  
   ... nach dem forken ..
-  
-  
-
+*************************************************************
 
 black
 white
@@ -36,7 +31,34 @@ Notes:
 5) pull request AND
 6) merge
 
-7) I added the new Second Branch
+7a) I added the new Second Branch
+  --> ZwischenSchritt: --> Änderung im 2nd branch, aber ohne die Neuerungen von 8-10) im Master...!
+
+7b) I added the new Second Branch
+7c) NOW: Fork & Pull Request...!
+  --> Somebody can work on it on his account... (to fork a repository)
+  --> Now you can send a pull request...
+  
+  
+  ==> pull request because the other can only ask me if he can deliver something...
+  
+8) Hier geht es weiter mit der "ThirdBranch" !!!!
+9) Eigener Pull request und continue with Master & ==> Look at issues...!
+
+10) Ich arbeite lieber im Master... die letzte Version...
+
+11) Now with command-line:
+
+- help
+- clear
+- 
 
 
---> Hier fehlen noch Änderungen...
+12) ---------------------------
+13) ................
+14) ********
+15) ===================================
+
+16) Eintag von Frank
+17
+
